@@ -1,0 +1,25 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsonplaceholder.typicode.test.js",
+  "dependencies": {
+    "jest": "^26.1.0",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedwards245/api-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedwards245/api-testing/issues"
+  },
+  "homepage": "https://github.com/sedwards245/api-testing#readme"
+}
